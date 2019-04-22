@@ -1,4 +1,3 @@
-/*
 package com.qingwei.springboot.common;
 
 import com.alibaba.fastjson.JSON;
@@ -57,4 +56,4 @@ public class WebLogAspect {
         // 处理完请求，返回内容
         logger.info("RESPONSE : " + ret);
     }
-}*/
+}
